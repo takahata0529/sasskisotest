@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+}
+
+strong {
+  color: red;
+  font-size: 30px;
+}
+
+ol {
+  color: white;
+  font-size: 30px;
+}
